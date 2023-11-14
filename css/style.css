@@ -1,0 +1,22 @@
+/* contenu ne dépasse pas et 0 margin vertical */
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+/* 
+créer des variables */
+:root {
+    
+    --maincolor: #ffffff;
+    --text: #000000;
+}
+/* image font le maximum de la taille de leur contenant et ne depasse pas du contenant */
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Converti 10 px en 1 rem */
+html {
+    font-size: 62.5%;  
+}

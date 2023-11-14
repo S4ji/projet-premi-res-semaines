@@ -1,0 +1,53 @@
+<!--#include virtual="header.shtml" -->
+   <main class="container">
+    <h1>Accueil</h1>
+        <div>
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+        </div>
+
+    <h2>Le court Blablabla</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus eaque tempora, explicabo incidunt omnis, enim perspiciatis quod natus veritatis voluptatum maxime! Impedit blanditiis nostrum, beatae quam, incidunt recusandae quia cum saepe nisi possimus at quasi nam obcaecati aliquam libero distinctio quisquam ducimus laboriosam temporibus! Repudiandae ullam tempore architecto maiores inventore qui? Corporis fugiat eaque quod adipisci voluptates commodi necessitatibus voluptatibus asperiores! Reiciendis libero sit nihil minus molestias ex aliquid facere, quaerat earum delectus ipsam accusantium perferendis ad architecto provident placeat excepturi. Perferendis molestias adipisci doloribus rerum quod ducimus at cum!</p>
+
+    <div>
+        <article>
+            <figure>
+                <img src="" alt="">
+                <figcaption></figcaption>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam consectetur modi ducimus tempore necessitatibus dolore ut illum excepturi nulla nihil.</p>
+            </figure>
+        </article>
+        <article>
+            <figure>
+                <img src="" alt="">
+                <figcaption></figcaption>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam consectetur modi ducimus tempore necessitatibus dolore ut illum excepturi nulla nihil.</p>
+            </figure>
+        </article>
+        <article>
+            <figure>
+                <img src="" alt="">
+                <figcaption></figcaption>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam consectetur modi ducimus tempore necessitatibus dolore ut illum excepturi nulla nihil.</p>
+            </figure>
+        </article>
+        <article>
+            <figure>
+                <img src="" alt="">
+                <figcaption></figcaption>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam consectetur modi ducimus tempore necessitatibus dolore ut illum excepturi nulla nihil.</p>
+            </figure>
+        </article>
+    </div>
+
+    <div>
+        <img src="" alt=""><p>109 Clients</p>
+        <img src="" alt=""><p>109 Avions</p>
+        <img src="" alt=""><p>109 Patates</p>
+    </div>
+
+    <div>Agissez, je vous appelle.</div>
+   </main>
+
+<!--#include virtual="footer.shtml" -->

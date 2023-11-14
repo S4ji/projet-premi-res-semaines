@@ -1,0 +1,26 @@
+<main class="container">
+    <h1>Présentation</h1>
+    <div>
+        <video src=""></video>
+        <div>
+            <h2>A propos de nous</h2>
+            <div>
+                <h3>
+                    <p>Lorem Ipsum</p>
+                </h3>
+            </div>
+            <div>
+                <h3>Notre Mission</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, commodi doloribus. Repudiandae et nostrum, voluptatum quasi est optio rerum omnis?</p>
+                <ul>
+                    <li>Lorem ipsum dolor sit.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet consectetur adipisicing.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="sidebar">
+            
+        </div>
+    </div>
+</main>
